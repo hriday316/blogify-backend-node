@@ -44,7 +44,7 @@ This application responds gracefully to any error. such as zod validation error,
 #### Steps
 1. Clone the repository:
     ```sh
-    git clone <repository-url>
+    git clone <https://github.com/hriday316/blogify-backend-node.git>
     ```
 2. Install dependencies:
     ```sh
